@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 425183e573f42f14a9f75a6e6a5cec0d
+  productGUID: 87a9c21390f6a02438910042046aa8e4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Tagamochi
+  productName: Hotline_Kingston
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -768,14 +768,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Tagamochi
+  metroPackageName: Hotline_Kingston
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Tagamochi
+  metroApplicationDescription: Hotline_Kingston
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -844,10 +844,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: ea86dcd7-cc3e-4c66-a143-7d1d819b15dc
+  cloudProjectId: a89876a2-3911-4799-98a9-428718349c3c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Tagamochi
+  projectName: Hotline_Kingston
   organizationId: teomanyaparlar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
